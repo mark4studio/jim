@@ -1,0 +1,2 @@
+2018-05-08 13:33:20 MESSAGE : Activation : 
+2018-05-08 13:33:40 ERROR : (Type: ErrorException; Message: Trying to get property of non-object; File: /Users/naveen/Dropbox/Work/mark.iv/products/camtono/theme/sections/full-width-banner/full-width-banner.php; Line: 1;)
